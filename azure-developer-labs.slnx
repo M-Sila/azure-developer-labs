@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="cosmosdb/cosmosdb.csproj" />
   <Project Path="graphapp/graphapp.csproj" Id="886f7152-7b17-4184-a31d-c5091fbe291a" />
+  <Project Path="keyvault/keyvault.csproj" Id="d4ec2fbf-b42e-457d-a980-d1e550b0caf3" />
   <Project Path="msal-authapp/msal-authapp.csproj" Id="82572f3c-76a3-4b5d-bffc-295511c50653" />
 </Solution>
